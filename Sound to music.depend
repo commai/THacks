@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1477172596 source:c:\users\starl\documents\1my stuff\programs\sound to music\lodepng.cpp
+	"lodepng.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1477172596 c:\users\starl\documents\1my stuff\programs\sound to music\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1477178034 source:c:\users\starl\documents\1my stuff\programs\sound to music\main.cpp
+	<bits/stdc++.h>
+	"lodepng.h"
+	<windows.h>
+
+1477168996 source:c:\users\starl\onedrive\documents\1my stuff\programs\sound to music\lodepng.cpp
+	"lodepng.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1477168996 c:\users\starl\onedrive\documents\1my stuff\programs\sound to music\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1477174627 source:c:\users\starl\onedrive\documents\1my stuff\programs\sound to music\main.cpp
+	<bits/stdc++.h>
+	"lodepng.h"
+	<windows.h>
+
